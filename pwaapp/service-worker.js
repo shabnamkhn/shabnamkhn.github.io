@@ -7,7 +7,7 @@ const dynamicCacheName = 'runtimeCache-v1';
 
 // Pre Caching Assets
 const precacheAssets = [
-
+    '/'
 ];
 
 // Install Event
