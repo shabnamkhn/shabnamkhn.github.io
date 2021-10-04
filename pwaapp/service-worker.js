@@ -9,15 +9,8 @@ const dynamicCacheName = 'runtimeCache-v1';
 const precacheAssets = [
     '/',
     'css/bootstrap.min.css',
-    'js/active.js',
-    'js/bootstrap.bundle.min.js',
     'js/pwa.js',
     'manifest.json',
-    'page-home.html',
-    'pages.html',
-    'elements.html',
-    'settings.html',
-    'page-fallback.html',
     'style.css'
 ];
 
