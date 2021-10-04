@@ -1279,7 +1279,7 @@ body,
 html {
     font-family: "Poppins", sans-serif;
     overflow-x: hidden;
-    background-image: url(/img/bg-img/iphonebg.png);
+    background-image: url(./img/bg-img/iphonebg.png);
     background-size: cover;
     background-repeat: no-repeat;
     color: #8480ae;
